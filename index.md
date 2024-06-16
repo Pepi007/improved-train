@@ -11,3 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Desayunar huevos revueltos
+- [ ] Estudiar 3 horas
+- [ ] Practicar para el examen
